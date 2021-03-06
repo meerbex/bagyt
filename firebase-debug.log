@@ -1,0 +1,6 @@
+[debug] [2021-03-06T18:47:21.935Z] ----------------------------------------------------------------------
+[debug] [2021-03-06T18:47:21.937Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-03-06T18:47:21.937Z] CLI Version:   9.4.0
+[debug] [2021-03-06T18:47:21.937Z] Platform:      win32
+[debug] [2021-03-06T18:47:21.937Z] Node Version:  v12.18.4
+[debug] [2021-03-06T18:47:21.938Z] Time:          Sun Mar 07 2021 00:47:21 GMT+0600 (GMT+06:00)
